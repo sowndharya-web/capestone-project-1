@@ -46,6 +46,14 @@ The "Redbus Data Scraping and Filtering with Streamlit Application" aims to revo
      
 **Step 5:Interactive Application**
      1.Interactive applications is built so that the user can apply filters and get their bus details.
+     ![image](https://github.com/user-attachments/assets/9cdf5c15-3073-4562-91ff-b42722887ffd)
+
+     ![image](https://github.com/user-attachments/assets/f2a4876b-5afd-4aab-ab58-ed6b8b003253)
+     
+     ![image](https://github.com/user-attachments/assets/a3869636-52ef-4f8b-88c4-7a6a81edd721)
+
+
+
      
   
      
